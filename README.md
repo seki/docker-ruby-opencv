@@ -6,3 +6,6 @@ The docker image contains:
 - ruby-opencv gem
 - SIDBA standar images (from kanagawa-it.ac.jp)
 
+**To test docker image run on macOS**
+
+    docker run -it -eDISPLAY=docker.for.mac.localhost:0 seki/ruby-opencv
