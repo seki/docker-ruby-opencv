@@ -8,4 +8,4 @@ The docker image contains:
 
 **To test docker image run on macOS**
 
-    docker run -it -eDISPLAY=docker.for.mac.localhost:0 seki/ruby-opencv
+    docker run -it -eDISPLAY=docker.for.mac.localhost:0 mseki/ruby-opencv
